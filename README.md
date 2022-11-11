@@ -1,9 +1,5 @@
 # Frank Collebrusco
-### (512)-963-5859
-### collebrusco.frank@gmail.com
-### Austin, TX 78756
-### [Resume]()
-### [Github](github.com/collebrusco)
+### (512)-963-5859  |  collebrusco.frank@gmail.com  |  Austin, TX 78756  |  [Resume]()  |  [Github](github.com/collebrusco)
 ## About Me
 I am a junior at the University of Texas at Austin studying Computer Engineering with a focus on Software Engineering and Design. My areas of interest include low level software, computer graphics, embedded systems, game design, and audio and signal processing. I plan on graduating in 2025 and entering the software industry. Currently, I am seeking internships for the Summer of 2023.  
   
