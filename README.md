@@ -1,6 +1,6 @@
 # Frank Collebrusco
-## (512)-963-5859
 ## collebrusco.frank@gmail.com
+## (512)-963-5859
 ## Austin, TX 78756
 ## [Resume]() &nbsp;|&nbsp; [Github](https://github.com/collebrusco)
 # About Me
