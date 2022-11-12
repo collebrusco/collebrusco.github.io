@@ -3,7 +3,7 @@
 ### collebrusco.frank@gmail.com
 ### Austin, TX 78756
 ### [Resume]()
-### [Github](github.com/collebrusco)
+### [Github](https://github.com/collebrusco)
 ## About Me
 I am a junior at the University of Texas at Austin studying Computer Engineering with a focus on Software Engineering and Design. My areas of interest include low level software, computer graphics, embedded systems, game design, and audio and signal processing. I plan on graduating in 2025 and entering the software industry. Currently, I am seeking internships for the Summer of 2023.  
   
@@ -13,5 +13,6 @@ After high school, I got a job in an auto shop, where in three years I worked my
 
 Throughout my studies, my technical background from working in the auto shop has proven to be a significant advantage. My extended technical experience gives context to much of my applied studies, and affords me a unique perspective. My matured diagnostic skills help me to quickly debug software and track down electrical issues. Being an auto technician is nothing if not problem solving: and these skills and experiences have absolutely made me a better student and prospective engineer.  
 
-## Projects *(Extra-Cirricular)*
-I have a genuine passion for creating that extends outside of class and career. Below are some of my extra-cirricular projects.
+## Extra-Cirricular Projects
+I have a genuine passion for creating that extends outside of class and career. These are some of my extra-cirricular projects.
+### [OpenGL Game Engine]()
