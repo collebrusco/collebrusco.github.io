@@ -13,13 +13,12 @@ After high school, I got a job in an auto shop, where in three years I worked my
 Throughout my studies, my technical background from working in the auto shop has proven to be a significant advantage. My extended technical experience gives context to much of my applied studies, and affords me a unique perspective. My matured diagnostic skills help me to quickly debug software and track down electrical issues. Being an auto technician is nothing if not problem solving: and these skills and experiences have absolutely made me a better student and prospective engineer.  
    
 ![Me in the Shop](/docs/assets/images/me_working_on_merc_small.PNG) ![Hemi Rebuild](/docs/assets/images/hemi_rebuild_small.png)   
-Me replacing a control arm in the shop in 2017 (left) Torn down hemi in the process of getting a top-end rebuild (right)
 
 # Extra-Cirricular Projects
 I have a genuine passion for creating that extends outside of class and career. These are some of my extra-cirricular projects. These were NOT done for school or work, but entirely on my own time.
 ## OpenGL Game Engine
 ### [Github Repo](https://github.com/collebrusco/opengl-game-engine) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/hJseGaKIq68)   
-For 8 weeks in the Summer of 2022 I began extensive research into computer graphics, OpenGL and GPU programming in order to work on creating a game from scratch. After building a codebase capable of doing basics such as opening a window, reading/compiling/uploading shaders, and creating and uploading VAOs to the GPU, I began designing an engine for an interactive game. This project is still a work in progress, and not a complete game. However, when launched, the user can control a pixart character in top down view, where they can walk, aim, sprint, zoom in & out, and collide with nearby objects.   
+For 8 weeks in the Summer of 2022 I began researching computer graphics, OpenGL and GPU programming in order to create a game from scratch. After building code capable of doing basics such as opening a window, reading/compiling/uploading shaders, creating VAOs on the GPU, I began designing an engine for an interactive game. This project is still a work in progress, and not a complete game. However, when launched, the user can control a pixart character in top down view, where they can walk, aim, sprint, zoom in & out, and collide with nearby objects.   
 
 ## Grocery List Maker
 ### [Github Repo](https://github.com/collebrusco/grocery-list-maker) &nbsp;|&nbsp; [Youtube Demo]()
