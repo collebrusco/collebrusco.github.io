@@ -12,8 +12,8 @@ After high school, I got a job in an auto shop, where in three years I worked my
 
 Throughout my studies, my technical background from working in the auto shop has proven to be a significant advantage. My extended technical experience gives context to much of my applied studies, and affords me a unique perspective. My matured diagnostic skills help me to quickly debug software and track down electrical issues. Being an auto technician is nothing if not problem solving: and these skills and experiences have absolutely made me a better student and prospective engineer.  
    
-![Me in the Shop](/docs/assets/images/me_working_on_merc_small.PNG) ![VW Engine Swap](/docs/assets/images/hemi_rebuild_small.png)   
-
+![Me in the Shop](/docs/assets/images/me_working_on_merc_small.PNG) ![Hemi Rebuild](/docs/assets/images/hemi_rebuild_small.png)   
+Me replacing a control arm in the shop in 2017 (left) Torn down hemi in the process of getting a top-end rebuild (right)
 
 # Extra-Cirricular Projects
 I have a genuine passion for creating that extends outside of class and career. These are some of my extra-cirricular projects. These were NOT done for school or work, but entirely on my own time.
