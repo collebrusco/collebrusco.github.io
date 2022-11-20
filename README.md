@@ -17,6 +17,7 @@ Throughout my studies, my technical background from working in the auto shop has
 # Extra-Cirricular Projects
 These are some projects I have worked on on my own time for research, learning, fun, to solve a problem, or all of the above.
 ## OpenGL Game Engine
+![OpenGL Shader Code](/docs/assets/images/shader_code_eg.png)
 ### [Github Repo](https://github.com/collebrusco/opengl-game-engine) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/hJseGaKIq68)   
 For 8 weeks in the Summer of 2022 I began researching computer graphics, OpenGL and GPU programming in order to create a game from scratch. After building code capable of doing basics such as opening a window, reading/compiling/uploading shaders, creating VAOs on the GPU & rendering, I began designing an engine for an interactive game. This project is still a work in progress, and not a complete game. However, when launched, the user can control a pixart character in top down view, where they can walk, aim, sprint, zoom in & out, and collide with nearby objects.   
 
