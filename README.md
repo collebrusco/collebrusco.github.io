@@ -16,11 +16,12 @@ Throughout my studies, my technical background from working in the auto shop has
 
 # Extra-Cirricular Projects
 These are some projects I have worked on on my own time for research, learning, fun, to solve a problem, or all of the above.
+![OpenGL Shader Code](/docs/assets/images/shader_code_eg.png)
 ## OpenGL Game Engine
 ### [Github Repo](https://github.com/collebrusco/opengl-game-engine) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/hJseGaKIq68)   
-![OpenGL Shader Code](/docs/assets/images/shader_code_eg.png)
 For 8 weeks in the Summer of 2022 I began researching computer graphics, OpenGL and GPU programming in order to create a game from scratch. After building code capable of doing basics such as opening a window, reading/compiling/uploading shaders, creating VAOs on the GPU & rendering, I began designing an engine for an interactive game. This project is still a work in progress, and not a complete game. However, when launched, the user can control a pixart character in top down view, where they can walk, aim, sprint, zoom in & out, and collide with nearby objects.   
 
+![grocery list maker home screen](/docs/assets/images/grocery-list-maker.png)
 ## Grocery List Maker
 ### [Github Repo](https://github.com/collebrusco/grocery-list-maker) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/nFomeJMN-k0)
 Out of necessity, I created a tool that keeps a list of recipes and meals you like, and uses it to create you a grocery list by randomly selecting you a desired number of recipes or snacks based on your input. For example, you can tell it you need 7 meals for the week, only 3 of which you want to have to cook. It will look through your recipe list and select you some options at random, from which you can add/remove entries, confirm, and then the program will save you a grocery list in an external file.   
