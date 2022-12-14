@@ -14,8 +14,7 @@ Throughout my studies, my technical background from working in the auto shop has
    
 ![Me in the Shop](/docs/assets/images/me_working_on_merc_small.PNG) ![Hemi Rebuild](/docs/assets/images/hemi_rebuild_small.png)   
 # Cirricular Projects   
-## Handheld Game Competition for ECE 319K
-## 2nd Place
+## Handheld Game Competition (2nd Place)
 ### [Github Repo](https://github.com/collebrusco/ECE-319K-game-competition) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/LUv89gF3i-0)   
 ![319K PCB](/docs/assets/images/PCB.PNG)   
 At the end of Intro to Embedded Systems at UT, the class puts everything from the semester together into a handheld game design competition, in which this game won 2nd place. The system is driven by a TM4C microcontroller, and interfaces with a 128x160 TFT LCD display, a 6-bit DAC, a joystick & a slidepot, 4 buttons and 6 LEDs through a custom PCB that I designed. The gameplay is sort of "bullet hell" style, with 5 levels, a boss fight, and upgrades available for purchase throughout with coins earned from downing enemies. The game was written in one week in a combination of C and C++.
