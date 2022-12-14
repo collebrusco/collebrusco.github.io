@@ -16,7 +16,7 @@ Throughout my studies, my technical background from working in the auto shop has
 # Cirricular Projects   
 ## Handheld Game Competition for Intro to Embedded Systems
 ### [Github Repo](https://github.com/collebrusco/ECE-319K-game-competition) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/LUv89gF3i-0)   
-![319K PCB](/docs/assets/images/PCB.png)
+![319K PCB](/docs/assets/images/PCB.PNG)   
 At the end of Intro to Embedded Systems at UT, the class puts everything from the semester together into a handheld game design competition. The system is driven by a TM4C microcontroller, and interfaces with a 128x160 TFT LCD display, a 6-bit DAC, a joystick & a slidepot, 4 buttons and 6 LEDs through a custom PCB that I designed. The gameplay is sort of "bullet hell" style, with 5 levels, a boss fight, and upgrades available for purchase throughout with coins earned from downing enemies. The game was written in one week in a combination of C and C++.
 
 # Extra-Cirricular Projects
