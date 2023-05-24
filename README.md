@@ -8,11 +8,12 @@ I am a junior at the University of Texas at Austin studying Computer Engineering
     
   
 # Background
-After high school, I got a job in an auto shop, where over three years I went from cleaning floors, to doing oil changes, to eventually performing complex jobs including top-end engine rebuilds, electrical diagnosis, and suspension repair. During these years I discovered a love of engineering that inspired me to pursue my education. I enrolled at Texas State University, where I held a 4.0 GPA before transferring to UT Austin. Here I've maintained a 4.0 and work as a teacher's assistant with the Electrical and Computer Engineering department.
+After high school, I got a job in an auto shop, where over three years I went from cleaning floors, to doing oil changes, to eventually performing complex jobs such as engine and electrical repair. During these years I found a strong interest in engineering and was inspired to pursue my education. I enrolled at Texas State University, where I held a 4.0 GPA before transferring to UT Austin. Here I've maintained a 4.0 and work as a teacher's assistant with the Electrical and Computer Engineering department.
+
+![Me in the Shop](/docs/assets/images/me_working_on_merc_small.PNG) ![Hemi Rebuild](/docs/assets/images/hemi_rebuild_small.png)   
 
 Having field experience performing electrical and mechanical repair is a unique advantage. Being an auto technician is nothing if not problem solving, and that skill has certainly transferred to the software and computer engineering field. I find that software and hardware debugging often utilize the same sort of thought processes and logic that apply to narrowing down the reason for a fault in a vehicle, though in a different medium. 
    
-![Me in the Shop](/docs/assets/images/me_working_on_merc_small.PNG) ![Hemi Rebuild](/docs/assets/images/hemi_rebuild_small.png)   
 # Projects   
 ## Handheld Game Competition (2nd Place)
 ### [Github Repo](https://github.com/collebrusco/ECE-319K-game-competition) &nbsp;|&nbsp; [Youtube Demo](https://youtu.be/LUv89gF3i-0) &nbsp;|&nbsp; [Photos](https://www.flickr.com/photos/utece/albums/72177720304144100)   
